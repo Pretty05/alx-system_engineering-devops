@@ -1,2 +1,2 @@
 #!/bin/bash
-water_base="ewwatratewa" stir_base="ti.itirtrtr" bestchol_base="shtbeolhc"
+echo "ibase=${#water_base}; ${water_base^^}" | bc "ibase=${#stir_base}; ${stir_base^^}" | bc
